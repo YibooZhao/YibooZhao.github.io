@@ -2,7 +2,7 @@
 show: true
 width: 3
 date: 2021-09-12 00:01:00 +0800
-group: Cats
+group: Intern
 height: 295px
 images:
 - src: /assets/images/photos/1.png
