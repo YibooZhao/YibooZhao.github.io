@@ -22,29 +22,31 @@ github: your_github_id
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a PhD student at <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=QLLFowsAAAAJ&hl=zh-CN" target="_blank">Xiaofei He</a>, 
+    and I am privileged to work closely with <a href="https://scholar.google.com/citations?hl=zh-CN&user=AqDe35sAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Wu boxi</a>. I completed my B.S. at <a href="https://www7.zzu.edu.cn/csai/index.htm" target="_blank">Zhengzhou University</a>.
+    Now I am an intern at FABU.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am interested in generative models (text2img, text2video, video2video). My recent research focuses on video benchmark and video customization.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/zhaoyibo.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Shot in Mount Huangshan.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Zhejiang University
+  logo: /assets/images/badges/zhejiang.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2022 - present
+- name: Zhengzhou University
+  logo: /assets/images/badges/zhengzhou.png
+  position: >- 
+    Department of Computer Science and Artificial Intelligence <br/>
+    B.E.
+  date: Sep. 2018 - Jul. 2022
 
 # experience:
 # - name: Peking University
